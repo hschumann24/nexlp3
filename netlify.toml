@@ -1,0 +1,3 @@
+[build]
+  publish = "public"              # Points to your public files (HTML, CSS, JS)
+  functions = "netlify/functions" # Points to your functions folder
